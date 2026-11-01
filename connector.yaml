@@ -1,0 +1,6 @@
+id: "custom.github-muse-chan"
+title: "GitHub (muse-chan)"
+description: "Work on GitHub as the bot account muse-chan through the REST API, including repositories, issues, pull requests, contents and Actions."
+include_in_prompt: true
+require_auth: true
+aliases: ["GitHub bot", "muse-chan GitHub"]
